@@ -27,8 +27,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the text “GUIcomponent”.
-Developed by: N.SIDDARTHAN
-Registration Number: 212221040154
+Developed by: SHREENIVASH V
+Registration Number: 212221040153
 */
 ```
 activity_main.xml :
@@ -152,8 +152,10 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 ## OUTPUT
-![image](https://github.com/Siddarthan999/MAD-EXP-2-To-develop-an-application-that-uses-GUI-Components-with-Fonts-and-Colors/assets/91734840/6b3062a0-7f0c-4590-8e7c-1c5b168cdc3c)
-![image](https://github.com/Siddarthan999/MAD-EXP-2-To-develop-an-application-that-uses-GUI-Components-with-Fonts-and-Colors/assets/91734840/d58fca9f-43f9-4731-9303-a146fdd66f5a)
+![image](https://github.com/Srinixx/MAD-EXP-2-To-develop-an-application-that-uses-GUI-Components-with-Fonts-and-Colors/assets/132982592/734e2075-c859-4ce3-9ed8-a3d1dc1397dd)
+![image](https://github.com/Srinixx/MAD-EXP-2-To-develop-an-application-that-uses-GUI-Components-with-Fonts-and-Colors/assets/132982592/92cf1d92-e179-4e8d-be29-ac9134abfabc)
+
+
 
 
 ## RESULT
